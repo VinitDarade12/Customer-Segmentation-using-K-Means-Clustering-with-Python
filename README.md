@@ -16,12 +16,12 @@ Here K defines the number of pre-defined clusters that need to be created in the
 
 Dataset:
 The dataset for this project can include the following features:
-Customer ID
-Age
-Gender
-Annual Income
-Spending Score (1-100)
-Other relevant features (e.g., frequency of purchase, product categories purchased, etc.)
+Customer ID ,
+Age ,
+Gender ,
+Annual Income ,
+Spending Score (1-100) ,
+Other relevant features (e.g., frequency of purchase, product categories purchased, etc.) .
 
 [Mall_Customers.csv](https://github.com/user-attachments/files/16318985/Mall_Customers.csv)
 
